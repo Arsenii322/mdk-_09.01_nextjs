@@ -1,4 +1,3 @@
-
-export default function customers() {
-  return <p>Страница Клиентов</p>;
+export default function Page() {
+  return <p>Страница клиентов</p>;
 }
